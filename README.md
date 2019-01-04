@@ -1,6 +1,6 @@
 # SmartPlug-ESP8266
 
-Created by [Chien Kuan-Chen](goodnana1224@gmail.com), [Lai Po-Hsuan](s1101b046@gmail.com), [Lin Chia-Jen](jared1997519@gmail.com), [Chang Chun-Hsuan](s1310634027@gms.nutc.edu.tw), [Suag Cheng-Han](richardsung97@yahoo.com.tw)
+Created by [Chien Kuan-Chen](goodnana1224@gmail.com), [Lai Po-Hsuan](s1101b046@gmail.com), [Lin Chia-Jen](jared1997519@gmail.com), [Chang Chun-Hsuan](s1310634027@gms.nutc.edu.tw), [Sug Cheng-Han](richardsung97@yahoo.com.tw)
 
 The SmartPlug that we developed is based on the **ESP8266 NodeMCU chip**, which will allow users to regulate and mitigate the power consumption from wall sockets. The entire project consists of a single ESP8266 chip, an **ACS712 5A electric current sensor**, and a **DHT11 temperature & moisture sensor**. The ESP8266 will retrieve data from the ACS712 and DHT11 sensors, then upload these data via the **MQTT protocol** to **ThingSpeak**, an online platform for processing, analyzing and storing IoT data. 
 
