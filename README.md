@@ -5,6 +5,7 @@ Created by [Chien Kuan-Chen](goodnana1224@gmail.com), [Lai Po-Hsuan](s1101b046@g
 Our SmartPlug create by ESP8266. ESP8266 will collect datas from ACS712 and DHT11. 
 Then send datas to ThingSpeak, a online platfrom for collecting, analyze and act IOT data, by **Mqtt Protocol**.
 Users can watch the **Temperature**, **Humidity**, **Power Consumption** and **Remote Control Relay** of the appliance through android.
+![](https://i.imgur.com/eeIJwb0.png)
 
 ## Platform
 [ThingSpeak](https://thingspeak.com/)
