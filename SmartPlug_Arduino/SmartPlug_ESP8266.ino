@@ -12,9 +12,9 @@ WiFiClient espClient;
 PubSubClient pubclient(espClient);
 
 const char* mqttServer = "mqtt.thingspeak.com";  // MQTT伺服器位址
-const char* mqttUserName = "robin";  // 使用者名稱，隨意設定。
-const char* mqttPwd = "Goodnana851224";  // MQTT密碼
-const char* clientID = "robin";      // 用戶端ID，隨意設定。
+const char* mqttUserName = "Thingspeak username";  // 使用者名稱，隨意設定。
+const char* mqttPwd = "Thingspeak password";  // MQTT密碼
+const char* clientID = "cliend ID";      // 用戶端ID，隨意設定。
 const char* topic = "channels/634553/publish/6B29OOAWVGNOG6OF";
 unsigned long prevMillis = 0;  // 暫存經過時間（毫秒）
 const long interval = 5 * 1000;  // 上傳資料的間隔時間，20秒。
