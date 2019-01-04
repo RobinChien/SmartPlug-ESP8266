@@ -1,6 +1,6 @@
 # SmartPlug-ESP8266
 
-Created by Chien Kuan-Chen, Lai Po-Hsuan, Lin Chia-Jen, Chang Chun-Hsuan, Suan Cheng-Han
+Created by [Chien Kuan-Chen](), Lai Po-Hsuan, Lin Chia-Jen, Chang Chun-Hsuan, [Suan Cheng-Han](richardsung97@yahoo.com.tw)
 
 Our SmartPlug create by ESP8266. ESP8266 will collect datas from ACS712 and DHT11. 
 Then send datas to ThingSpeak, a online platfrom for collecting, analyze and act IOT data, by **Mqtt Protocol**.
