@@ -18,6 +18,10 @@ Users can watch the **Temperature**, **Humidity**, **Power Consumption** and **R
 4. 5V Relay Module
 5. Socket box and Socket
 
+## Protocol
+1. Mqtt
+2. Http
+
 ---
 # Demo
 [Demo](https://photos.google.com/share/AF1QipMq7t7CK7KSJ9EuPBp0EXyoE-DWmmEJPY7nUskG1NK1BvOwuA_IJRvWfY5mZ5fK-g?key=MExTNmpzSTJHOG5Ea1FrWGVZVFU2dVBtd1JWeUdR)
